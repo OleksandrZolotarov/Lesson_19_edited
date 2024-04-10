@@ -1,0 +1,15 @@
+<svg width="61.000000" height="50.000000" viewBox="0 0 61 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip746_12328">
+			<rect id="Logo" width="61.000000" height="50.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<path id="Rectangle 50" d="M5 25C5 11.19 16.19 0 30 0C43.8 0 55 11.19 55 25C55 38.8 43.8 50 30 50L5 50L5 25Z" fill="#0156FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<rect id="Logo" width="61.000000" height="50.000000" fill="#0156FF" fill-opacity="0"/>
+	<g clip-path="url(#clip746_12328)">
+		<path id="Vector 24" d="M30.16 10.1L18.15 17.29L18.15 26.13L30.16 33.32L39.79 27.79L39.79 30.42L30.16 36.22L18.15 28.9L18.15 32.08L30.16 39.13L42.17 32.08L42.17 23.23L32.54 28.9L32.54 26.13L42.17 20.33L42.17 17.29L30.16 10.1Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
